@@ -86,6 +86,9 @@ table Metrics
 		formatString: 0
 		lineageTag: 9fb8292b-2c81-4727-800d-2ff24f31b363
 
+	measure play_metric_new = "This is just a test for git"
+		lineageTag: 25823a50-080b-4fd5-9d3b-3b23442d9ed2
+
 	partition Metrics = m
 		mode: import
 		source =
