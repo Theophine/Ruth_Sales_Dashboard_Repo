@@ -66,7 +66,7 @@ table Metrics
 			IF([YoY Sales] > 0, "Green", "Red")
 		lineageTag: c196a6d3-59f8-4bd7-ad99-07990da45cbe
 
-	measure 'Total QTY' = SUM(Sales_Data[Order Qty])
+	measure QTY = SUM(Sales_Data[Order Qty])
 		formatString: 0
 		lineageTag: e17e53f0-4d4a-4fa2-a937-6c1a1aedbae6
 

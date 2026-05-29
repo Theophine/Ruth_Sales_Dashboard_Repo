@@ -23,11 +23,11 @@
                       "Entity": "Metrics"
                     }
                   },
-                  "Property": "Total QTY"
+                  "Property": "QTY"
                 }
               },
               "queryRef": "Metrics.Total QTY",
-              "nativeQueryRef": "Total QTY"
+              "nativeQueryRef": "QTY"
             }
           ]
         }
@@ -42,7 +42,7 @@
                     "Entity": "Metrics"
                   }
                 },
-                "Property": "Total QTY"
+                "Property": "QTY"
               }
             },
             "direction": "Descending"
