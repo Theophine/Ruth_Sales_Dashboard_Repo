@@ -1,7 +1,7 @@
 table Metrics
 	lineageTag: 041c0c83-9923-4aab-b7d2-2edb2bf12fe1
 
-	measure 'Total Sales' = SUM(Sales_Data[Sales])
+	measure 'Total Sales' = SUM(Sales_Data[Sales]) + 1000000
 		formatString: 0
 		lineageTag: 08ec01d6-1cfc-4f27-8e9d-1f5a3bcb8a86
 
