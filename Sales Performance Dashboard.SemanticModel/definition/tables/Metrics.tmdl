@@ -82,7 +82,7 @@ table Metrics
 		formatString: 0
 		lineageTag: 82c20d11-aa12-4bae-9baf-b69f479324eb
 
-	measure play_metric = [Total QTY] * [Total Sales]
+	measure GitHub_Play_Metric = [Total QTY] * [Total Sales]
 		formatString: 0
 		lineageTag: 9fb8292b-2c81-4727-800d-2ff24f31b363
 
