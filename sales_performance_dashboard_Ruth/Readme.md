@@ -1,1 +1,0 @@
-This is an auto-created file for sales_performance_dashboard_Ruth
