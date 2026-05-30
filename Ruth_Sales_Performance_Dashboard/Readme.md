@@ -1,1 +1,0 @@
-This is an auto-created file for Ruth_Sales_Performance_Dashboard
